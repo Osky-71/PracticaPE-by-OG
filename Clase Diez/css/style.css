@@ -1,0 +1,14 @@
+body{
+    background-color:cornflowerblue;
+}
+
+.Titulo{
+    color:floralwhite;
+    text-align: center;
+    font-style: oblique;
+}
+
+.btn{
+    margin-left: 5px;
+    font-style: oblique;
+}
